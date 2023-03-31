@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "นักเรียน",
+        "icon" : "nav-icon fa fa-users",
+        "url" : "/app/student"
+    },
+    {
+        "name" : "แอดมิน",
+        "icon" : "nav-icon fa fa-user",
+        "url" : "/app/admin"
+    },
+    {
+        "name" : "แบบสอบถาม",
+        "icon" : "nav-icon fa fa-address-book",
+        "url" : "/app/quiz"
+    },
+    {
+        "name" : "ตั้งค่า",
+        "icon" : "nav-icon fa fa-cog",
+        "url" : "/app/settings"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "นักเรียน",
+        "icon" : "nav-icon fa fa-users",
+        "url" : "/app/student"
+    },
+    {
+        "name" : "ตั้งค่า",
+        "icon" : "nav-icon fa fa-cog",
+        "url" : "/app/settings"
+    }
+]

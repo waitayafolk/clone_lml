@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29ce497a.css",
+    "main.js": "/static/js/main.be72edf6.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/backgrond_png.png": "/static/media/backgrond_png.c7036b3bdcc7dbd66023.png",
+    "static/media/from1.png": "/static/media/from1.17ae8dba1ceee9e69973.png",
+    "static/media/image03.png": "/static/media/image03.16c7029cfa91424945eb.png",
+    "static/media/image04.png": "/static/media/image04.7122ea36add6475c5860.png",
+    "static/media/image01.png": "/static/media/image01.e17d2b41ed78e84b8a60.png",
+    "static/media/th.jpg": "/static/media/th.e1fcafce04c679774a9f.jpg",
+    "static/media/image02.png": "/static/media/image02.9d50b4a765652c66ee2c.png",
+    "static/media/en.jpg": "/static/media/en.974c3381a5ad014d5963.jpg",
+    "static/media/logo-lml.png": "/static/media/logo-lml.3b29565577e6ea29a8fc.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.29ce497a.css.map": "/static/css/main.29ce497a.css.map",
+    "main.be72edf6.js.map": "/static/js/main.be72edf6.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ce497a.css",
+    "static/js/main.be72edf6.js"
+  ]
+}
